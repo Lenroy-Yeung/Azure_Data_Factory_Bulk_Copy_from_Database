@@ -1,0 +1,1 @@
+# Azure_Data_Factory_Bulk_Copy_from_Database
